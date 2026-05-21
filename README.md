@@ -1,16 +1,5 @@
-# 📦 取件码智能识别工具
-一款桌面端取件码识别软件，上传截图自动识别取件码+取件区间，支持个性化设置。
+# Vue 3 + Vite
 
-## ✨ 功能特点
-- 自定义头像、本地缓存开关、深色/浅色主题切换
-- 一键识别图片中的取件码与柜号区间
-- 识别结果+原图+界面截图一键保存到电脑
-- 现代化圆角卡片UI，操作简单直观
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## 📋 运行环境
-Python 3.14 及以上
-
-## 🚀 使用方法
-1. 安装依赖
-```bash
-pip install pyqt5 pillow pyperclip
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
